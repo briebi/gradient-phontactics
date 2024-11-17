@@ -30,7 +30,7 @@ The script is intended for natural language processing (NLP) tasks where phoneme
 ## Prerequisites
 
 - Python 3.x
-
+  
 ---
 
 ## Setup Instructions
@@ -39,10 +39,7 @@ The script is intended for natural language processing (NLP) tasks where phoneme
    Ensure Python 3.x is installed on your machine.  
    [Download Python](https://www.python.org/downloads/)
 
-2. **Prepare Word File**:  
-   Create or obtain a file named `ukwords.phon`, ensuring it contains one word per line.
-
-3. **Run the Script**:  
+2. **Run the Script**:  
    Execute the script in your Python environment. For example:  
    ```bash
-   python trigram_analysis.py
+   python main.py
